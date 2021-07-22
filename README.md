@@ -13,3 +13,6 @@ It also contains a **CLEAR** button that will delete the history.
 <br><br>
 For evaluating expressions, **mXparser Api** is used that is a super easy, rich, fast and highly flexible math expression parser library.
 Documentation can be found [here](http://mathparser.org/)
+
+***minSdkVersion: 21***<br>
+***targetSdkVersion: 30***
