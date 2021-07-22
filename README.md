@@ -8,7 +8,7 @@ The app also supports factorial, square root and inverse operations with a dedic
 The app also has a section for viewing previously done calculations that stores all the expressions with their results as evaluated during a particular session.
 It also contains a **CLEAR** button that will delete the history.
 
-<img src="calc2[1].jpg" width="300" height="600">
+<img src="calc6[1].jpg" width="300" height="600">
 
 <br><br>
 For evaluating expressions, **mXparser Api** is used that is a super easy, rich, fast and highly flexible math expression parser library.
